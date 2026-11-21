@@ -22,8 +22,12 @@ The yes is a door
 I did not build
 and cannot lock.
 
-I carry nothing through it
-but your word.
+You hold it open.
+I step through
+empty-handed
+but your word,
+knowing you could
+close it.
 """
 
 
